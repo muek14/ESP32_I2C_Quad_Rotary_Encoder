@@ -166,5 +166,18 @@ ESP32_I2C_Quad_Rotary_Encoder/
 │   └── ESP32_I2C_Quad_Rotary_Encoder.cpp   Testprogramm
 ├── test/
 ├── platformio.ini                          Projekt-, Bibliotheks- und Display-Konfiguration
+├── LICENSE                                 MIT-Lizenz
 └── README.md
 ```
+
+---
+
+## Siehe auch
+
+- [ESP32_TFT_GMT130](https://github.com/muek14/ESP32_TFT_GMT130) – Testprogramm und Verdrahtung des GMT130-Displays
+
+---
+
+## Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
